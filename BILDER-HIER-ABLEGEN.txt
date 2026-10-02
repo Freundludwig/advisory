@@ -1,0 +1,3 @@
+Legen Sie Ihre Bilder mit genau diesen Dateinamen in diesen Ordner:
+hero.jpg, beratung.jpg, projekt.jpg, moderation.jpg, personal.jpg, training.jpg, portrait.jpg
+(Kleinschreibung beachten, Format .jpg, idealerweise unter 500 KB pro Bild)
